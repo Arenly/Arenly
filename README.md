@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arenly
-- 👀 I’m interested in ... programming languages such as Python, C++, and web development
+- 👀 I’m interested in ... programming languages such as Python and web development
 - 🌱 I’m currently learning ... web development
 - 💞️ I’m looking to collaborate on ... absolutely nothing right now
 - 📫 How to reach me ... you can reach me through social media such as Instagram (@arenlyll) Twitter/X (@arenlyll) and Discord (@arenly)
